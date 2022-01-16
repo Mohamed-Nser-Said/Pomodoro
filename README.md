@@ -6,7 +6,7 @@ getting distracted, so you can concentrate on getting things done.
 
 The App was build using C++, and Qt frameWork.
 
-![Example Grid]()
+![Example Grid](https://github.com/Mohamed-Nser-Said/Pomodoro/blob/master/rec/img.png)
 
 
 ## Installation
