@@ -21,7 +21,7 @@ This app has 3 external dependencies:
 
 
 ### 2. Clone
-~~~~
+
 ```sh
 git clone https://github.com/Mohamed-Nser-Said/Pomodoro.git
 ```
