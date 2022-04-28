@@ -1,4 +1,4 @@
-Pomodoro App! in C++
+Pomodoro App
 ================
 
 The Pomodoro Technique is a productivity technique that prevents you from procrastinating or 
