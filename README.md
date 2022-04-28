@@ -4,7 +4,7 @@ Pomodoro App
 The Pomodoro Technique is a productivity technique that prevents you from procrastinating or 
 getting distracted, so you can concentrate on getting things done.
 
-The App was build using C++, and Qt frameWork.
+The App was build using Qt frameWork.
 
 
 <img src="https://github.com/Mohamed-Nser-Said/Pomodoro/blob/master/rec/img_1.png" style="width:270px"/>
